@@ -9,7 +9,7 @@ where `X` is an `Integer`.
 
 Make sure each of the randomly `sample`d `sentence`s below outputs the correct response, then get the tests to pass.
 
-Hint: It may be helpful to use the advanced `gsub` techniques with the `Regexp` class; see [the Ruby reference](https://learn.firstdraft.com/lessons/33#advanced-gsub-techniques-with-regexp-class).
+Hint: It may be helpful to use the advanced `gsub` techniques with the `Regexp` class; see [the Ruby reference](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference#advanced-gsub-techniques-with-regexp-class).
 
 ```ruby
 sentences = [
